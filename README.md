@@ -10,7 +10,7 @@
 ## [Members](https://github.com/ScottyMcCotty/165a-winter-2022#Members)
 
 - Scott Ballinger - sballinger@ucdavis.edu
-- Krishnapriya Nair -
+- Krishnapriya Nair - kmnair@ucdavis.edu
 - Jeren Raquel - jpraquel@ucdavis.edu
 - Dhruv Fadadu - dafadadu@ucdavis.edu
 - Yuting Ma - ttma@ucdavis.edu
